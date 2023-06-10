@@ -1,1 +1,107 @@
+/* Урок 4
 
+Задание 1 */
+.lesson-four-task-one .btn:hover {
+   color:red;
+   background: yellow;
+}
+
+/* Задание 2 */
+.lesson-four-task-two h1:hover {
+    color:green;
+ }
+
+ /* Задание 3 */
+ .lesson-four-task-three a:visited {
+    color:yellow;
+ }
+
+ /* Задание 4 */
+ #sidebar:link {
+    color:red;
+ }
+
+ /* Задание 5 */
+ .lesson-four-task-five .btn:active {
+    background:blue;
+ }
+
+ /* Задание 6 */
+ .lesson-four-task-six .btn:focus {
+    background:orange;
+ }
+
+ /* Задание 7 */
+ .lesson-four-task-seven a:focus {
+    background:green;
+    color:white;
+ }
+
+ /* Задание 8 */
+ input:checked {
+    background:blue;
+    color:white;
+ }
+
+ /* Задание 9 */
+ .lesson-four-task-nine p:lang(uk) {
+    color:blue;
+ }
+
+ /* Задание 10 */
+ .lesson-four-task-ten input:enabled {
+  
+    background: yellow;
+ }
+
+ /* Задание 11 */
+ .lesson-four-task-eleven input:disabled {
+
+    background: yellow;
+ }
+
+ /* Задание 13 */
+ .lesson-four-task-thirteen input:read-only {
+    background: yellow;
+ }
+
+ /* Задание 14 */
+ .lesson-four-task-fourteen input:valid {
+    background: green;
+ }
+ /* Задание 14 */
+ .lesson-four-task-fourteen input:invalid {
+    background: red;
+ }
+
+ /* Задание 15 */
+ .lesson-four-task-fifteen textarea:optional {
+    background: red;
+ }
+
+ /* Задание 16 */
+ .lesson-four-task-sixteen input:out-of-range {
+    color: red;
+ }
+
+ /* Задание 17 */
+ .lesson-four-task-seventeen input:in-range {
+    color: red;
+ }
+
+ /* Задание 18 */
+ .lesson-four-task-eighteen input:placeholder-shown {
+   background: red;
+ }
+
+ /* Задание 19 */
+ .lesson-four-task-nineteen .btn-group button:focus-within {
+   background: yellow;
+   color:white;
+ }
+
+ /* Задание 20 */
+ .lesson-four-task-twenty input:invalid {
+   background: yellow;
+   color:white;
+ }
